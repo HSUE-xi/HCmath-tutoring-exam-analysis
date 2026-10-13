@@ -1,0 +1,9 @@
+*.pdf
+*.xlsx
+*.csv
+.env
+*.key
+*credentials*.json
+*token*.json
+__pycache__/
+.DS_Store
