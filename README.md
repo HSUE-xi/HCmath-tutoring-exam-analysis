@@ -1,4 +1,6 @@
-# HCmath 小考分析｜雙版本
+# HCmath-tutoring-exam-analysis
+
+HCmath 小考分析雙版本工具。
 
 | 版本 | 路徑 | 適用工具 | Google Sheets 寫入 |
 |---|---|---|---|
